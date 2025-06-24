@@ -6,7 +6,7 @@
 SECONDS=0 # builtin bash timer
 
 # Allowed codenames
-ALLOWED_CODENAMES=("sweet" "courbet" "tucana" "toco" "phoenix" "davinci")
+ALLOWED_CODENAMES=("sweet" "courbet" "tucana" "toco" "phoenix" "davinci" "courbetnh")
 
 # Prompt user for device codename
 read -p "Enter device codename: " DEVICE
